@@ -176,8 +176,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Aman Kumar**
 
 - Email: [bishnuoraon319@gmail.com](mailto:bishnuoraon319@gmail.com)
-- LinkedIn: [bishnu-oraon-22556b257](https://www.linkedin.com/in/bishnu-oraon-22556b257/))
-- GitHub: [BishnuOrao](https://github.com/BishnuOrao))
+- LinkedIn: [bishnu-oraon-22556b257](https://www.linkedin.com/in/bishnu-oraon-22556b257/)
+- GitHub: [BishnuOrao](https://github.com/BishnuOrao)
 
 ## 🚨 Important Safety Note
 
