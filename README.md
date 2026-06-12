@@ -175,9 +175,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Aman Kumar**
 
-- Email: [amanjee8055@gmail.com](mailto:amanjee8055@gmail.com)
-- LinkedIn: [aman-kumar-7a82432a4](https://www.linkedin.com/in/aman-kumar-7a82432a4)
-- GitHub: [JuTechHub](https://github.com/JuTechHub)
+- Email: [bishnuoraon319@gmail.com](mailto:bishnuoraon319@gmail.com)
+- LinkedIn: [bishnu-oraon-22556b257](https://www.linkedin.com/in/bishnu-oraon-22556b257/))
+- GitHub: [BishnuOrao](https://github.com/BishnuOrao))
 
 ## 🚨 Important Safety Note
 
@@ -187,9 +187,9 @@ This platform provides electrical guidance for educational purposes. For complex
 
 For technical support or questions about the platform, please reach out through:
 
-- Email: amanjee8055@gmail.com
-- Emergency Line: 9905048916
+- Email: bishnuoraon319@gmail.com
+- Emergency Line: 7866021345
 
 ---
 
-Made with ❤️ by Aman Kumar
+Made with ❤️ by Bishnu Oraon
